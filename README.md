@@ -1,6 +1,6 @@
 # Overview
 
-This project is a small mobile app writen with flutter to generate and scan QR codes.
+This project is a small mobile app written with flutter to generate and scan QR codes.
 
 # Installation
 
