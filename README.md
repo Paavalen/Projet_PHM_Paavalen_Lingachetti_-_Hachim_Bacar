@@ -6,7 +6,7 @@ This project is a small mobile app writen with flutter to generate and scan QR c
 
 ## Android 
 
-you can find an APK in the [release]([https://link-url-here.org](https://github.com/Paavalen/Projet_PHM_Paavalen_Lingachetti_-_Hachim_Bacar/releases/tag/1.0)https://github.com/Paavalen/Projet_PHM_Paavalen_Lingachetti_-_Hachim_Bacar/releases/tag/1.0)
+you can find an APK in the [release](https://github.com/Paavalen/Projet_PHM_Paavalen_Lingachetti_-_Hachim_Bacar/releases/tag/1.0)
 
 ## Compile from source code
 
