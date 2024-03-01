@@ -12,5 +12,5 @@ You can find an APK in the [release](https://github.com/Paavalen/Projet_PHM_Paav
 
 1. Clone the repository.
 2. Open the project in your prefered IDE.
-3. Download all depedencies need (flutter sdk, dark sdk, android sdk).
+3. Download all depedencies need (flutter sdk, dart sdk, android sdk).
 4. Type ```flutter run``` in the terminal.
